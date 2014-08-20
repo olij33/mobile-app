@@ -9,6 +9,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  <item href="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html" id="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
+  <item href="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html" id="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="webcredits-54ca043d-41c8-4692-b4f3-61a1b914ca89.html" id="webcredits-54ca043d-41c8-4692-b4f3-61a1b914ca89.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="webcredits-54ca043d-41c8-4692-b4f3-61a1b914ca89.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="user-experience-22ec6a1d-6b0d-426d-a7cc-93e33a22b893.html"></itemref></spine>
 </package>
